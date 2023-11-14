@@ -35,7 +35,7 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
-        <li><a href="#Download data">Download data</a></li>
+        <li><a href="#Download-data">Download data</a></li>
       </ul>
     </li>
     <li><a href="#license">License</a></li>
