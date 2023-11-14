@@ -137,6 +137,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
+I would love to hear from you what you think about the project.
+
 Lior - [@LinkedIn](https://www.linkedin.com/in/lior-michaeli-a558b529b/) - liorm0995@gmail.com
 
 Project Link: [https://github.com/LiorMichaeli/Image-segmentation-for-self-driving-car](https://github.com/LiorMichaeli/Image-segmentation-for-self-driving-car)
