@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/LiorMichaeli/Image segmentation for self-driving car">
+  <a href="https://github.com/LiorMichaeli/Image-segmentation-for-self-driving-car">
     <img src="Images/semantic segmentation.webp" alt="Logo" width="600" height="300">
   </a>
   <h3 align="center">Image segmentation for self-driving car</h3>
@@ -103,7 +103,7 @@ This is how you can install my project to your computer:
 
 3. Clone the repo, i.e, write in the terminal:
    ```
-   git clone https://github.com/LiorMichaeli/Image segmentation for self-driving car
+   git clone https://github.com/LiorMichaeli/Image-segmentation-for-self-driving-car
    ```
 
 ### Download data
@@ -139,7 +139,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Lior - [@LinkedIn](https://www.linkedin.com/in/lior-michaeli-a558b529b/) - liorm0995@gmail.com
 
-Project Link: https://github.com/LiorMichaeli/Image segmentation for self-driving car
+Project Link: [https://github.com/LiorMichaeli/Image-segmentation-for-self-driving-car](https://github.com/LiorMichaeli/Image-segmentation-for-self-driving-car)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
