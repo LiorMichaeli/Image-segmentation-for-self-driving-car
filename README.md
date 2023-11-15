@@ -49,11 +49,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Welcome to Image segmentation for self-driving car project.
-After some time that I learned courses about DL and ML, I was so exeited and interested in doing a personal project and research about spesific topic from end to end.
+Welcome to the Image Segmentation for self-driving cars project.
+After some time that I learned courses about DL and ML, I was very excited and interested in doing a personal project and research about specific topic from end to end.
 
-So I did this, in this project I will explore about image segmentation for self-driving car.
-In Image segmentation for self-driving car jupyter notebook file I went about the complete process of the project along with code snippets.
+So, I did this! In this project I will explore image segmentation for self-driving cars.
+In the Image segmentation for self-driving car Jupyter Notebook file, I went about the complete process of the project along with code snippets.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -74,17 +74,17 @@ The main libraries that I used in this project are:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-In order to see the Image segmentation for self-driving car jupyter notebook file properly, you must have to get a local copy up and running my project in your computer.
-This is because in the github site the Image segmentation for self-driving car jupyter notebook file not identifies the images.
-To get a local copy up and running follow these simple example steps.
+To see the Image segmentation for self-driving car Jupyter Notebook file properly, you must have to get a local copy up and running my project on your computer.
+This is because, on the GitHub site, the Image segmentation for self-driving car Jupyter Notebook file does not identify the images.
+To get a local copy up and running my project on your computer, follow these simple example steps.
 
 ### Prerequisites
 
-Firstly you need to have app like Visual Studio Code, Pycharm or another app that support jupyter notebooks.
+Firstly, you need to have an app like Visual Studio Code, PyCharm, or another app that supports Jupyter Notebooks.
 
-After this you need to ensure that you have all the libraries that I described in section 4 in the Image segmentation for self-driving car jupyter notebook file.
-If you have not some library so you can install her in the terminal.
-For example if you want to install TensorFlow library you can write in the terminal:
+After this, you need to ensure that you have all the libraries that I described in section 4 in the Image segmentation for self-driving car Jupyter Notebook file.
+If you do not have a library you can install her in the terminal.
+For example, if you want to install the TensorFlow library you can write in the terminal:
 
 ```
 pip install tensorflow
@@ -92,36 +92,36 @@ pip install tensorflow
 
 ### Installation
 
-This is how you can install my project to your computer:
+This is how you can install my project on your computer:
 
 1. Go to your terminal
 
-2. Go to the path that you want to downlod to project into and write in the terminal:
+2. Go to the path that you want to download to project into and write in the terminal:
    ```
    cd path_that_you_want
    ```
 
-3. Clone the repo, i.e, write in the terminal:
+3. Clone the repo, i.e., write in the terminal:
    ```
    git clone https://github.com/LiorMichaeli/Image-segmentation-for-self-driving-car
    ```
 
 ### Download data
 
-If you want to run and train the models yourself you need to download the data.
-If you want to see the notebook and what I did this is not nessacry part,
+If you want to run and train the models yourself, you need to download the data.
+If you only want to see my notebook and what I did, this is not necessary,
 because I went about the complete process of the project along with code snippets and with results.
 
-In order to download the data for the project you need to go and create user.
-After you create user you need to go to Download, and download these files:
+To download the data for the project, you need to go and create a user.
+After you create a user, you need to go to Download and download these files:
 * gtFine_trainvaltest.zip
 * leftImg8bit_trainvaltest.zip
 
-Now create a folder with name 'data' and put these two folders into him(of course after extracting),
-and put the data folder in the main project folder(for example where Images folder).
+Now create a folder with the name 'data' and put these two folders into him(of course after extracting),
+and put the data folder in the main project folder(for example, where the Images folder is located).
 
 
-And now get into the Image segmentation for self-driving car jupyter notebook file.
+Now, enter the Image segmentation for the self-driving car Jupyter Notebook file.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,8 +137,13 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Lior - [@LinkedIn](https://www.linkedin.com/in/lior-michaeli-a558b529b/) - liorm0995@gmail.com
+I would love to hear from you what you think about the project.
 
+<<<<<<< HEAD
+=======
+Lior Michaeli - [@LinkedIn](https://www.linkedin.com/in/liormichaeli/) - liorm0995@gmail.com
+
+>>>>>>> f37b50f65e959609451d30459cf7fc701d8ebbfa
 Project Link: [https://github.com/LiorMichaeli/Image-segmentation-for-self-driving-car](https://github.com/LiorMichaeli/Image-segmentation-for-self-driving-car)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,7 +152,7 @@ Project Link: [https://github.com/LiorMichaeli/Image-segmentation-for-self-drivi
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-These are the main resources that helped me in the project and I want to give credit to them:
+These are the main resources that helped me in the project, and I want to give credit to them:
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [City Scapes site](https://www.cityscapes-dataset.com/dataset-overview/#features)
@@ -157,7 +162,7 @@ These are the main resources that helped me in the project and I want to give cr
 * [Medium site](https://medium.com/)
 * [For README](https://github.com/othneildrew/Best-README-Template/tree/master#readme-top)
 
-And I used many more resources like sites, videos and images. Many of them have a link on the Image segmentation for self-driving car jupyter notebook file.
+And I used many more resources like sites, videos, and images. Many of them have a link on the Image segmentation for self-driving car Jupyter Notebook file.
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
