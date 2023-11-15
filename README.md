@@ -52,7 +52,7 @@
 Welcome to the Image Segmentation for self-driving cars project.
 After some time that I learned courses about DL and ML, I was very excited and interested in doing a personal project and research about specific topic from end to end.
 
-So, I did this, in this project I will explore image segmentation for self-driving cars.
+So, I did this! In this project I will explore image segmentation for self-driving cars.
 In the Image segmentation for self-driving car Jupyter Notebook file, I went about the complete process of the project along with code snippets.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -76,14 +76,14 @@ The main libraries that I used in this project are:
 
 To see the Image segmentation for self-driving car Jupyter Notebook file properly, you must have to get a local copy up and running my project on your computer.
 This is because, on the GitHub site, the Image segmentation for self-driving car Jupyter Notebook file does not identify the images.
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running my project on your computer, follow these simple example steps.
 
 ### Prerequisites
 
 Firstly, you need to have an app like Visual Studio Code, PyCharm, or another app that supports Jupyter Notebooks.
 
 After this, you need to ensure that you have all the libraries that I described in section 4 in the Image segmentation for self-driving car Jupyter Notebook file.
-If you do have not a library you can install her in the terminal.
+If you do not have a library you can install her in the terminal.
 For example, if you want to install the TensorFlow library you can write in the terminal:
 
 ```
@@ -108,20 +108,20 @@ This is how you can install my project on your computer:
 
 ### Download data
 
-If you want to run and train the models yourself you need to download the data.
-If you want to see the notebook and what I did this is not a necessary part,
+If you want to run and train the models yourself, you need to download the data.
+If you only want to see my notebook and what I did, this is not necessary,
 because I went about the complete process of the project along with code snippets and with results.
 
-To download the data for the project you need to go and create a user.
-After you create a user you need to go to Download, and download these files:
+To download the data for the project, you need to go and create a user.
+After you create a user, you need to go to Download and download these files:
 * gtFine_trainvaltest.zip
 * leftImg8bit_trainvaltest.zip
 
 Now create a folder with the name 'data' and put these two folders into him(of course after extracting),
-and put the data folder in the main project folder(for example where Images folder).
+and put the data folder in the main project folder(for example, where the Images folder is located).
 
 
-Now get into the Image segmentation for the self-driving car Jupyter Notebook file.
+Now, enter the Image segmentation for the self-driving car Jupyter Notebook file.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -149,7 +149,7 @@ Project Link: [https://github.com/LiorMichaeli/Image-segmentation-for-self-drivi
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-These are the main resources that helped me in the project and I want to give credit to them:
+These are the main resources that helped me in the project, and I want to give credit to them:
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [City Scapes site](https://www.cityscapes-dataset.com/dataset-overview/#features)
