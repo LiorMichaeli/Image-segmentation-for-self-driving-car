@@ -106,7 +106,7 @@ This is how you can install my project on your computer:
    git clone https://github.com/LiorMichaeli/Image-segmentation-for-self-driving-car
    ```
 
-### Download-data
+### Download data
 
 If you want to run and train the models yourself you need to download the data.
 If you want to see the notebook and what I did this is not a necessary part,
